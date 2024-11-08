@@ -1,0 +1,12 @@
+# Basic packages for Python development
+python-dotenv      # For managing environment variables
+requests            # For making HTTP requests if your service needs to communicate with APIs
+pandas              # For data manipulation and analysis (optional, but useful for task data handling)
+pytest              # For testing your application
+pytest-cov          # For measuring code coverage during testing
+
+# GUI Framework (if you plan to build a GUI)
+# PyQt5              # Uncomment this if you prefer PyQt5 for GUI development instead of tkinter.
+
+# Database (if you're planning to use SQLite or another database)
+sqlalchemy          # For ORM and database interactions
